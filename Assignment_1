@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+    <head>
+     <title> 
+     3rd class
+    </title>
+    </head>
+    <body>
+       <p>
+<!-- this is comment-->
+
+Web Design Basic<em> To Advance</em> 3rd Class
+</p>
+<hr>
+<p>
+<pre>
+lorem ipsum15 <br>
+    lorem ipsum 14<br>
+    
+           Happy<mark>Eid Mubarak</mark>to Everyone
+           lorem ipsum15 hsjdidijd<del>nsjskkdkd</del> ckekc blubmdkvm ckekc blubmdkvm ckekc blubmdkvm ckekc blu
+           blubmdkvblubmdkv   blubmdkvblubmdkv<ins>
+               Chittagong</ins>
+               H<SUB>2</SUB>O , A<SUP>2</SUP>
+               
+           
+           
+           </pre>
+           </hr>
+        <a href="http://www.google.com" target="_blank">Google</a><br>
+        
+        
+        <img src="https://images.app.goo.gl/d9deFX3iiCdecRww8 " width="300px" height="100px"alt="Building"><br>
+        
+        
+        <form action="#">
+        <label for="">FName:</label>
+        <input type="text"placeholder="enter your first name"autofocus id="FName"required ><br><br>   
+        <label for="#">LName:</label>
+         <input type="text"placeholder="enter your last name"id="lname" > <br><br>
+         <label for="#">Email:</label>
+        <input type="email"placeholder="example@gmail.com" > <br><br>
+        <label for="#">Password:</label>
+         <input type="password"> <br><br>
+         <label for="#">Contact No:</label>
+         <input type="text"> <br><br>
+        <label for="#">Gender:</label>
+         <input type="radio"> <br><br>
+         <label for="#">Male:</label>
+         <input type="radio"> <br><br>
+         <label for="#">Female:</label>
+         <input type="radio"> <br><br>
+         <label for="#">Others:</label>
+         <input type="radio"> <br><br>
+         <button> Submit</button>
+         </form>
+        
+        
+    </body>
+</html>
